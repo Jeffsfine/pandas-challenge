@@ -88,7 +88,7 @@ Two important findings within this dataset.
 <br>
 Budget per student correlates positively with:
 - Average math score
-But correlates negatively with:
+<br>But correlates negatively with:
 - Average reading score
 - Percent of passing math 
 - Percent of passing reading 
