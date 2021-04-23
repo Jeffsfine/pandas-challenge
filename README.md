@@ -36,6 +36,8 @@ Create an overview table that summarizes key metrics about each school, includin
 - % Passing Reading (The percentage of students that passed reading.)
 - % Overall Passing (The percentage of students that passed math and reading.)
 
+![School Sumamry](https://github.com/Jeffsfine/pandas-challenge/blob/main/Images/School%20summary.png)
+
 ## Scores by School Spending
 
 Create a table that breaks down school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
@@ -45,6 +47,8 @@ Create a table that breaks down school performances based on average Spending Ra
 - % Passing Math (The percentage of students that passed math.)
 - % Passing Reading (The percentage of students that passed reading.)
 - % Overall Passing (The percentage of students that passed math and reading.)
+
+![Scores by School Spending](https://github.com/Jeffsfine/pandas-challenge/blob/main/Images/Scores%20by%20School%20Spending.png)
 
 Other reports: 
 
