@@ -83,5 +83,19 @@ Other reports:
 * In average score, percent passing, and overall score,Charter schools have a greater scores than District schools. 
 
 * Grade 11 students at Holden High School holds a higher average Math score (85) comparing all schools and grades. 
-<br> Holden High School grade 12 students possess a higher average reading score (84.698795).
+<br> Holden High School grade 12 students possess a higher average reading score (84.670).
 
+Two important findings within this dataset.
+<br>
+<br>
+Budget per student correlates positively with:
+* Average math score
+<br>
+<br>
+But correlates negatively with:
+* Pverage reading score
+* Percent of passing math 
+* Percent of passing reading 
+* Overall passing
+
+*
