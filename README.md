@@ -19,6 +19,8 @@ Create a high level snapshot  of the district's key metrics.
 - % Passing Reading (The percentage of students that passed reading.)
 - % Overall Passing (The percentage of students that passed math and reading.)
 
+![District summary](https://github.com/Jeffsfine/pandas-challenge/blob/main/Images/District%20summary.png)
+
 ## School Summary
 
 Create an overview table that summarizes key metrics about each school, including:
