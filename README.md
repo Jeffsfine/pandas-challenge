@@ -76,5 +76,12 @@ Other reports:
 <br> Wilson High School has the lowest budget per student at $578.00. 
 <br> Huang High School is one of the bottom performing schools while having the highest budget per student. 
 <br> This finding should be brought up to Huang High School and the Overseer of the schools in the the same way Bailey High School's high budget issue.
-<br> The district schools budget ($17,347,923.00) is higher than that of the charter schools budget ($7,301,505.00), 
+
+* The district schools budget ($17,347,923.00) is higher than that of the charter schools budget ($7,301,505.00), 
 <br> although the budget per student of charter schools ($4,796.00) is greater than that of district schools ($4,505.00).  
+
+* In average score, percent passing, and overall score,Charter schools have a greater scores than District schools. 
+
+* Grade 11 students at Holden High School holds a higher average Math score (85) comparing all schools and grades. 
+<br> Holden High School grade 12 students possess a higher average reading score (84.698795).
+
