@@ -94,3 +94,5 @@ But correlates negatively with:
 - Percent of passing math 
 - Percent of passing reading 
 - Overall passing
+
+And number of students correlates negatively in all measured aspects.
