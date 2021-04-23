@@ -58,3 +58,21 @@ Other reports:
 - Reading Scores by Grade
 - Scores by School Size
 - Scores by School Size
+
+## Notable Trends
+
+* Out of 39,170 students, average reading score for the set is 81.87. This score is higher than the average math score, 78.98.
+ The passing rate of reading 85.80%. This rate is higher than the math passing rate, 74.98 %.
+ The overall passing rate is 65.17%. Students in this set score higher in reading than math.
+
+* 7 schools in the set are district schools. 8 schools are charter Schools. The number of students in any one school ranged between 427 students (Holden High School) to 4976 students (Bailey High School). 
+The school summary found that district schools have more students than charter schools.
+
+* The school with the largest budget is Bailey High School, at $3,124,928.00. The lowest budget school is Holden High School at $248,087.00.
+While it's budget is the highest of all schools, Bailey High School is not in the list of top performing schools. 
+This would be an important finding to bring up to Bailey High School and the Overseer of these schools in order to better allocate the resources to help the students of the school. 
+
+* Huang High School has the highest budget per student at $655.00. 
+Wilson High School has the lowest budget per student at $578.00. 
+Huang High School is one of the bottom performing school while having the highest budget per student. This finding should be brought up to Huang High School and the Overseer of the schools in the the same way Bailey High School's high budget issue.
+The district schools budget ($17,347,923.00) is higher than that of the charter schools budget ($7,301,505.00), although the budget per student of charter schools ($4,796.00) is greater than that of district schools ($4,505.00).  
