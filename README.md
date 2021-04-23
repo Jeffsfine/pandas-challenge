@@ -61,41 +61,35 @@ Other reports:
 
 ## Notable Trends
 
-* Out of 39,170 students, average reading score for the set is 81.87. This score is higher than the average math score, 78.98.
+- Out of 39,170 students, average reading score for the set is 81.87. This score is higher than the average math score, 78.98.
 <br> The passing rate of reading 85.80%. This rate is higher than the math passing rate, 74.98 %.
 <br>  The overall passing rate is 65.17%. Students in this data set score higher in reading than math.
 
-* 7 schools in the set are district schools. 8 schools are charter Schools. The number of students in any one school ranged between 427 students (Holden High School) to 4976 students (Bailey High School). 
+- 7 schools in the set are district schools. 8 schools are charter Schools. The number of students in any one school ranged between 427 students (Holden High School) to 4976 students (Bailey High School). 
 <br> The school summary found that district schools have more students than charter schools.
 
-* The school with the largest budget is Bailey High School, at $3,124,928.00. The lowest budget school is Holden High School at $248,087.00.
+- The school with the largest budget is Bailey High School, at $3,124,928.00. The lowest budget school is Holden High School at $248,087.00.
 <br> While it's budget is the highest of all schools, Bailey High School is not in the list of top performing schools. 
 <br> This would be an important finding to bring up to Bailey High School and the Overseer of these schools in order to better allocate the resources to help the students of the school. 
 
-* Huang High School has the highest budget per student at $655.00. 
+- Huang High School has the highest budget per student at $655.00. 
 <br> Wilson High School has the lowest budget per student at $578.00. 
 <br> Huang High School is one of the bottom performing schools while having the highest budget per student. 
 <br> This finding should be brought up to Huang High School and the Overseer of the schools in the the same way Bailey High School's high budget issue.
 
-* The district schools budget ($17,347,923.00) is higher than that of the charter schools budget ($7,301,505.00), 
+- The district schools budget ($17,347,923.00) is higher than that of the charter schools budget ($7,301,505.00), 
 <br> although the budget per student of charter schools ($4,796.00) is greater than that of district schools ($4,505.00).  
-
-* In average score, percent passing, and overall score,Charter schools have a greater scores than District schools. 
-
-* Grade 11 students at Holden High School holds a higher average Math score (85) comparing all schools and grades. 
+- In average score, percent passing, and overall score,Charter schools have a greater scores than District schools. 
+- Grade 11 students at Holden High School holds a higher average Math score (85) comparing all schools and grades. 
 <br> Holden High School grade 12 students possess a higher average reading score (84.670).
 
 Two important findings within this dataset.
 <br>
 <br>
 Budget per student correlates positively with:
-* Average math score
-<br>
-<br>
+- Average math score
 But correlates negatively with:
-* Pverage reading score
-* Percent of passing math 
-* Percent of passing reading 
-* Overall passing
-
-*
+- Average reading score
+- Percent of passing math 
+- Percent of passing reading 
+- Overall passing
