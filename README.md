@@ -48,7 +48,7 @@ Create a table that breaks down school performances based on average Spending Ra
 - % Passing Reading (The percentage of students that passed reading.)
 - % Overall Passing (The percentage of students that passed math and reading.)
 
-![Scores by School Spending](https://github.com/Jeffsfine/pandas-challenge/blob/main/Images/Scores%20by%20School%20Spending.png)
+![Scores by school spending](https://github.com/Jeffsfine/pandas-challenge/blob/main/Images/Scores%20by%20School%20Spending.png)
 
 Other reports: 
 
